@@ -1,10 +1,10 @@
 {
-  "name": "discord-music-bot",
+  "name": "melodix",
   "version": "1.0.0",
-  "description": "The perfect music bot for your Discord server! 🤘",
+  "description": "The perfect music bot for your Discord server! 👑",
   "main": "index.js",
   "repository": "https://github.com/Androz2091/discord-music-bot",
-  "author": "Androz2091 <androz2091@gmail.com>",
+  "author": "farhan <farhan@icloud.com>",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
@@ -16,8 +16,14 @@
     "discord-player": "^5.1.0",
     "discord.js": "^13.1.0",
     "dotenv": "^10.0.0",
-    "slash-create": "^4.0.1"
+    "slash-create": "^4.0.1",
+    "express": "^4.18.2"
   },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "mdtable": "^0.3.1"
+  }
+}  },
   "devDependencies": {
     "eslint": "^7.32.0",
     "mdtable": "^0.3.1"

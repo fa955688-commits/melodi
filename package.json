@@ -1,11 +1,8 @@
 {
-  "name": "melodix",
+  "name": "melodi",
   "version": "1.0.0",
   "description": "The perfect music bot for your Discord server! 👑",
   "main": "index.js",
-  "repository": "https://github.com/Androz2091/discord-music-bot",
-  "author": "farhan <farhan@icloud.com>",
-  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
@@ -19,11 +16,6 @@
     "slash-create": "^4.0.1",
     "express": "^4.18.2"
   },
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "mdtable": "^0.3.1"
-  }
-}  },
   "devDependencies": {
     "eslint": "^7.32.0",
     "mdtable": "^0.3.1"
